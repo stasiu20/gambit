@@ -1,3 +1,13 @@
+Najważniejsze informacje na temat Rest API:
+
+1. Model do obsługi walidacji zapytań znajduje się w katalogu models pod nazwą Prediction.php
+2. Główny kontroler znajduje się w katalogu controllers/v1 i nosi nazwę PredictionController.php który dziedziczy z klasy ActiveController
+3. Schemat bazy dołączony jest w pliku db.sql w głównym katalogu
+4. Kolekcja Postmana dołączona jest w pliku Gambit.postman_collection.json w głównym katalogu
+
+
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
